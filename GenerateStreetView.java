@@ -89,7 +89,7 @@ public class GenerateStreetView {
 				"VirginiaBeach","Raleigh","Omaha","Maimi","Oakland","Minneapolis","Tulsa","Wichita","NewOrleans","Arlington"};
 			GenerateStreetView gsv = new GenerateStreetView();
 			try {
-				for(int i =22;i<allCities.length;i++) {
+				for(int i =0;i<allCities.length;i++) {
 					new File("src/"+names[i]).mkdir();
 					gsv.makeRepeated(allCities[i][0],allCities[i][1],mileInGPS*2,mileInGPS*2,300,names[i]);
 				}

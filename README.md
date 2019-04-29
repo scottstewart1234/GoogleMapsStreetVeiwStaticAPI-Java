@@ -8,7 +8,7 @@ NOTE: you need an API key. you can get them from https://developers.google.com/m
 # Project By: Scott Stewart
 Cities and their coordinates:
 |City|Latitude|Longitude|
-|----|--------|---------|
+|---------| -----------------------|----------------|
 |nyc|40.7128|-74.0060|
 |la|34.0522|-118.2437|
 |chicago|41.8781|-87.6298|

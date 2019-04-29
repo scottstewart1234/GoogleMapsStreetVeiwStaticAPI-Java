@@ -25,7 +25,7 @@ Cities and their coordinates:
 |San Francisco|37.7749|-122.4194|
 |Indianapolis|39.7684|-86.1581|
 |Columbus|39.9612|-82.9988|
-|For tWorth|32.7555|-97.3308|
+|Fort Worth|32.7555|-97.3308|
 |Charlotte|35.2271|-80.8431|
 |Seattle|47.6062|-122.3321|
 |Denver|39.7392|-104.9903|
